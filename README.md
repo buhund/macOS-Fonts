@@ -42,7 +42,7 @@ Here you will find several of the used and known sources of the macOS operating 
 **- New York:** This all-new, Apple-designed serif typeface is based on essential aspects of historical type styles and is designed to work on its own as well as alongside San Francisco.
 <br>
 
-
+<h2 align="center"></h2>
 <h2 align="center">Here an Example Using macO's Fonts</h2>
 <p align="center">Arch + KDE PLASMA.</p>
 
