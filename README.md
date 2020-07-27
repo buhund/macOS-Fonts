@@ -43,6 +43,6 @@ Here you will find several of the used and known sources of the macOS operating 
 <br>
 
 
+<h2 align="center">Here an Example Using macO's Fonts</h2>
+<p align="center">Arch + KDE PLASMA.</p>
 
-<h2 align="center"></h2>
-Bibliographical sources: <a href="https://developer.apple.com/fonts/">Here</a>
