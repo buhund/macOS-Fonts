@@ -6,13 +6,14 @@ Here you will find several of the used and known sources of the macOS operating 
 #### - GNU / Linux
 #### - MacOS 
 
-<h2 align="center">Here a Screenshot from a real macOS Catalina (Credits to a Friend who sended me this)</h2>
+<h2 align="center">macOS Catalina</h2>
 
 </div>
 <img src="https://github.com/Hblanqueto/macOS-Fonts/blob/master/Images/116099373_581360365844537_4144760099203696087_n.png" align="center">
 
 <br>
 
+<h2 align="center"></h2>
 ### Some of the fonts that you will find are:
 
 **- San Francisco Pro:** This sans-serif typeface is the system font for iOS, macOS, and tvOS, and includes a rounded variant. It provides a consistent, legible, and friendly typographic voice. **For iOS, macOS, and tvOS
