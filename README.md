@@ -20,7 +20,7 @@ Here you will find several of the used and known sources of the macOS operating 
 
 ### Some of the fonts that you will find are:
 
-<img src="https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/extra-1.webp" align="right" height="400px">
+<img src="https://github.com/Hblanqueto/macOS-Fonts/blob/master/Images/0w0.jpg" align="right" height="500px">
 
 <p align="left">
 
