@@ -2,7 +2,6 @@
 
 </div>
 <img src="https://github.com/Hblanqueto/macOS-Fonts/blob/master/Images/03.png" align="center" align="center">
-
 <br>
 
 Here you will find several of the used and known sources of the macOS operating system (in any of its versions such as Catalina, Mojave, High Sierra, etc.) so feel free to download them and install them for your operating system.
@@ -46,3 +45,6 @@ Here you will find several of the used and known sources of the macOS operating 
 <h2 align="center">Here an Example Using macO's Fonts</h2>
 <p align="center">Arch + KDE PLASMA.</p>
 
+</div>
+<img src="https://github.com/Hblanqueto/macOS-Fonts/blob/master/Images/mochito.png" align="center" align="center">
+<br>
