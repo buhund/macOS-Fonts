@@ -28,4 +28,4 @@ Here you will find several of the used and known sources of the macOS operating 
 **- New York:** This all-new, Apple-designed serif typeface is based on essential aspects of historical type styles and is designed to work on its own as well as alongside San Francisco.
 
 <h2 align="center"></h2>
-Bibliographical sources: <a href="https://developer.apple.com/fonts/">**Here**</a>
+Bibliographical sources: <a href="https://developer.apple.com/fonts/">Here</a>
