@@ -1,5 +1,5 @@
 # macOS-Fonts 
-<img src="https://github.com/Hblanqueto/macOS-Fonts/blob/master/Images/03.png" align="right" height="500px">
+<img src="https://github.com/Hblanqueto/macOS-Fonts/blob/master/Images/03.png" align="center" height="500px">
 
 Here you will find several of the used and known sources of the macOS operating system (in any of its versions such as Catalina, Mojave, High Sierra, etc.) so feel free to download them and install them for your operating system.
 
