@@ -13,6 +13,9 @@ Here you will find several of the used and known sources of the macOS operating 
 
 <br>
 
+<p align="center">Credits to my Friend who shared me this.</p>
+
+
 <h2 align="center"></h2>
 
 ### Some of the fonts that you will find are:
