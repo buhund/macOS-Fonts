@@ -4,6 +4,7 @@ Here you will find several of the used and known sources of the macOS operating 
 
 #### - Windows 10
 #### - GNU / Linux
+#### - MacOS 
 
 <h2 align="center">Here a Screenshot from a real macOS Catalina (Credits to a Friend who sended me this)</h2>
 
@@ -25,3 +26,5 @@ Here you will find several of the used and known sources of the macOS operating 
 **- San Francisco Text:** **For iOS, macOS, and tvOS
 
 **- New York:** This all-new, Apple-designed serif typeface is based on essential aspects of historical type styles and is designed to work on its own as well as alongside San Francisco.
+
+Bibliographical sources: <a href="https://developer.apple.com/fonts/">**Here**</a>
