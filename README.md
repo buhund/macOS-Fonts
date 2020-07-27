@@ -37,17 +37,7 @@ Here you will find several of the used and known sources of the macOS operating 
 **- New York:** This all-new, Apple-designed serif typeface is based on essential aspects of historical type styles and is designed to work on its own as well as alongside San Francisco.
 <br>
 
-**- San Francisco Pro:** This sans-serif typeface is the system font for iOS, macOS, and tvOS, and includes a rounded variant. It provides a consistent, legible, and friendly typographic voice. **For iOS, macOS, and tvOS
 
-**- San Francisco Compact:** This sans-serif typeface is the system font for watchOS, and includes a rounded variant. It suits a wide range of content and is easily legible in a variety of contexts. **for watchOS
-
-**- San Francisco Mono:** This monospaced variant of San Francisco enables alignment between rows and columns of text, and is used in coding environments like Xcode. It supports Latin, Greek, and Cyrillic scripts and contains six weights in upright and italic. For Terminal and Code Editor **(Konsole, Tilix, Xterm, Alacritty, Kitty, Gnome Terminal, XFCE Terminal...) 
-
-**- San Francisco Display:** **For iOS, macOS, and tvOS
-
-**- San Francisco Text:** **For iOS, macOS, and tvOS
-
-**- New York:** This all-new, Apple-designed serif typeface is based on essential aspects of historical type styles and is designed to work on its own as well as alongside San Francisco.
 
 <h2 align="center"></h2>
 Bibliographical sources: <a href="https://developer.apple.com/fonts/">Here</a>
