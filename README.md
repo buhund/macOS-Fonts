@@ -48,3 +48,11 @@ Here you will find several of the used and known sources of the macOS operating 
 </div>
 <img src="https://github.com/Hblanqueto/macOS-Fonts/blob/master/Images/mochito.png" align="center" align="center">
 <br>
+
+</div>
+<img src="https://github.com/Hblanqueto/macOS-Fonts/blob/master/Images/mochito2.png" align="center" align="center">
+<br>
+
+</div>
+<img src="https://github.com/Hblanqueto/macOS-Fonts/blob/master/Images/mochito%203.png" align="center" align="center">
+<br>
